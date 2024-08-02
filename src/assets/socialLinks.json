@@ -10,11 +10,5 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "rtx@highp.ing"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/lol7900xt"
   }
 ]
