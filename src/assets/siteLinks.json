@@ -10,8 +10,13 @@
     "link": "https://music.rtc.ovh/"
   },
   {
+    "icon":"BrandGoogleDrive",
+    "name":"Cartoon",
+    "link":"https://alist.rtc.ovh"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://kuma.rtc.ovh/"
+    "link": "https://kuma.rtc.ovh/status/kuma"
   }
 ]
